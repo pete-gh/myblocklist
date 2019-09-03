@@ -11,6 +11,9 @@ trakt.tv###huckster-desktop-wrapper
 photopea.com##div.flexrow.photopea:last-child > div:last-child
 photopea.com##div.flexrow.photopea:nth-child(12) > div:last-child
 
+### Rakuten Cash Back Shopping (Extra)
+@@||www.amazon.ca^*$xmlhttprequest,subdocument,document,script,object,image,~third-party,stylesheet
+
 ### Rakuten Cash Back Shopping
 @@||rakuten.com*$document 
 @@||rakuten.ca*$document 
