@@ -12,6 +12,8 @@ photopea.com##div.flexrow.photopea:last-child > div:last-child
 photopea.com##div.flexrow.photopea:nth-child(12) > div:last-child
 
 ### Rakuten Cash Back Shopping (Extra)
+rakuten.ca*
+amazon.ca*
 @@||www.amazon.ca^*$xmlhttprequest,subdocument,document,script,object,image,~third-party,stylesheet
 
 ### Rakuten Cash Back Shopping
