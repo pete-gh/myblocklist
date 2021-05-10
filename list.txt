@@ -11,6 +11,26 @@ trakt.tv###huckster-desktop-wrapper
 photopea.com##div.flexrow.photopea:last-child > div:last-child
 photopea.com##div.flexrow.photopea:nth-child(12) > div:last-child
 
+trakt.tv###hu-ck--st-er-desk-top-wrapper
+@@//www.my5.tv^$document
+mail.yahoo.com###modal-outer > div.j_1doAr4.ir3_0 > div.W_3A1b8.q_52qC.D_F.ek_BB.eo_x.ab_C.e_eo6.p_f.T_fq7.R_fq7
+mail.yahoo.com###modal-outer
+@@||192.168.0.152^$important,document,~extension
+@@||www.lashcondolaw.com^$important,document,~extension
+@@||5michaelpower.com^$important,document,~extension
+@@||efun.toronto.ca^$important,document,~extension
+@@||files.mycloud.com^$important,document,~extension
+strata.ca###root > div.app_container > div.sc-LzLvM.iUsKfI:nth-child(3) > div.buildingHeader:first-child
+mail.yahoo.com###modal-outer > div.j_1doAr4.ir3_0 > div.W_3A1b8.q_52qC.D_F.ek_BB.eo_x.ab_C.e_eo6.p_f.T_fq7.R_fq7.P_1Eu7sD
+@@||sale.aliexpress.com^$important,document
+mail.yahoo.com###modal-outer > div.j_1doAr4.ir3_0 > div.W_3zLco.q_52qC.D_F.ek_BB.eo_x.ab_C.e_eo6.p_f.T_fq7.R_fq7.P_1Eu7sD
+pogdesign.co.uk###data > a:nth-child(2) > img
+textnow.com###sidebar > div:nth-child(3)
+textnow.com###appContainer > div.flex-row.flex-fill:last-child > div:last-child
+
+https://www.rakuten.ca/static/cashback-shopping-whitelist?
+
+
 ### Rakuten Cash Back Shopping (Extra)
 rakuten.ca*
 amazon.ca*
